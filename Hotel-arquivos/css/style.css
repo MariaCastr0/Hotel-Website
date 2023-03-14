@@ -262,7 +262,14 @@ p{
     margin-top: -4rem;
     padding: 3.125rem 1.875rem;
     position: relative;
-    z-index: 9999999;
+    z-index: 99;
+}
+
+.booking-area .form-control,
+.booking-area .form-select{
+    border: .0625rem solid var(--primary-color);
+    height: 2.5rem;
+    text-transform: uppercase;
 }
 
 
