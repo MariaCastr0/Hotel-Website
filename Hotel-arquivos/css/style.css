@@ -270,7 +270,12 @@ p{
     border: .0625rem solid var(--primary-color);
     height: 2.5rem;
     text-transform: uppercase;
+    font-size: .875rem;
+    color: var(--text-black);
+    font-weight: 500;
 }
+
+
 
 
 /* 4 About */
