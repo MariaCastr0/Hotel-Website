@@ -15,6 +15,14 @@
     }
 
     /* booking area */
+    .booking-area{
+        padding: 3rem .625rem;
+    }
+
+    .booking-area .main-btn{
+        padding-left: .3125rem !important;
+        padding-right: .3125rem !important;
+    }
 
     /* service */
 }
@@ -41,6 +49,13 @@
     }
 
     /* banner wrapper */
+    .banner_wrapper{
+        height: 25.625rem;
+    }
+
+    .booking-area{
+        padding: 3.125rem 1.875rem;
+    }
 
     /* About */
 
