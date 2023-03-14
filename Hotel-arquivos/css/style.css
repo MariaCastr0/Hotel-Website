@@ -275,11 +275,17 @@ p{
     font-weight: 500;
 }
 
-
+.booking-area .form-control:focus,
+.booking-area .form-select:focus{
+    outline: none;
+    box-shadow: none;
+}
 
 
 /* 4 About */
-
+.about_wrapper{
+    padding-top: 9.375rem;
+}
 
 /* 5 Rooms */
 
