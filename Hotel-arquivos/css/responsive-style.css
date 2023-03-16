@@ -148,6 +148,9 @@
     }
 
     /* blog */
+    .blog_wrapper .blog-content{
+        margin: 0;
+    }
 
     /* footer */
 

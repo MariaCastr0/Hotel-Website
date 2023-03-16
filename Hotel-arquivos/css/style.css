@@ -585,12 +585,15 @@ p{
 .price_wrapper .card:hover .main-btn{
     color: var(--text-white);
     border-color: var(--bg-white);
-    
+
 }
 
 
-
 /* 10 Blog */
+.blog_wrapper .blog-content{
+    margin: -5rem 0 0 4.375rem;
+    box-shadow: 0 .125rem .25rem rgb(34 30 31 / 40%);
+}
 
 
 /* 11 Footer */
