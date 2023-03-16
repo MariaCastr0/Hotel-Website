@@ -564,7 +564,30 @@ p{
 }
 
 
-/* 9 Price */
+/* 9 Pricing Section */
+.price_wrapper .card{
+    box-shadow: 0 .125rem .25rem rgb(34 30 31 / 40%);
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.price_wrapper .card:hover{
+    background-color: var(--secondary-color);
+}
+
+.price_wrapper .card:hover h3,
+.price_wrapper .card:hover h5,
+.price_wrapper .card:hover p{
+    color: var(--text-white);
+}
+
+.price_wrapper .card:hover .main-btn{
+    color: var(--text-white);
+    border-color: var(--bg-white);
+    
+}
+
 
 
 /* 10 Blog */
